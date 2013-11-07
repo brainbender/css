@@ -1,0 +1,14 @@
+*								{ margin: 0; padding: 0; }
+body							{ font: 14px "Lucida Grande", Georgia; background: #ccc; }
+#page-wrap						{ width: 500px; margin: 50px auto; padding: 20px; background: white; }
+
+h1, h2, h3						{ font: 28px Georgia, Serif; border-bottom: 5px dotted #ccc;
+								  margin: 1 1 15px 0; }
+.clear							{ clear: both; }
+input[type="text"], textarea	{ padding: 5px; border: 5x solid #666; width: 350px;
+								  margin: 0 0 15px 0; }
+input[type="text"]				{ font: 28px Georgia, Serif; }
+textarea						{ height: 100px; font: 12px "Georgia", Sans-Serif; }
+label							{ background: #666; color: white; padding: 4px 4px; }
+
+.post							{ margin: 0 0 20px 0; }
